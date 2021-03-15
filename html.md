@@ -121,7 +121,7 @@ async：异步加载，立即执行
 
 - 连通性：(websockets)
 
-- 离线&存储：(localStorage临时,sessionStorage永久,indexedDB)- 
+- 离线&存储：(localStorage永久,sessionStorage临时,indexedDB)- 
 
 - 多媒体：(video,audio)
 
